@@ -18,13 +18,13 @@ AlgoSeek is an interactive web application designed to visually compare the Line
 
 ## Team Members
 
-| Name               | GitHub Profile                                         |
-| ------------------ | ------------------------------------------------------ |
-| Muhd Amreel Amsyar | [github.com/SyNhwang](https://github.com/SyNhwang)     |
-| Amir               | [github.com/itsmeEVIL](https://github.com/itsmeEVIL)   |
-| Adam Mukhlis       | [github.com/Damsuh88](https://github.com/Damsuh88)     |
-| Muhammad Abil      | [github.com/username4](https://github.com/username4)   |
-| Najmin Faiz        | [github.com/quackedudu](https://github.com/quackedudu) |
+| Name               | GitHub Profile                                             |
+| ------------------ | ---------------------------------------------------------- |
+| Muhd Amreel Amsyar | [github.com/SyNhwang](https://github.com/SyNhwang)         |
+| Amir               | [github.com/AmirShahrani](https://github.com/AmirShahrani) |
+| Adam Mukhlis       | [github.com/Damsuh88](https://github.com/Damsuh88)         |
+| Muhammad Abil      | [github.com/username4](https://github.com/username4)       |
+| Najmin Faiz        | [github.com/quackedudu](https://github.com/quackedudu)     |
 
 ## Screenshots
 
